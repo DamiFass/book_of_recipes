@@ -6,3 +6,7 @@
 ## Hot sauces
 
 * [Bolognese](Bolognese.md)
+
+* [Carbonara](Carbonara.md)
+
+
