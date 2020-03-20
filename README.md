@@ -5,4 +5,4 @@
 
 ## Hot sauces
 
-* [Bolognese] (Bolognese.md)
+* [Bolognese](Bolognese.md)
